@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+body {
+    background-color: rgb(228, 228, 44);
+    font-family: 'Rubik', sans-serif;
+}
+
+.page_logo {
+    display: flex;
+}
+
+.logo_praxino {
+    height: 70%;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+.praxiLogo {
+    height: 450px;
+}
+
+.container {
+    margin-top: 5%;
+}
+
+.info {
+    margin-left: 5%;
+    margin-top: 18%;
+    font-size: 35px;
+}
+
+.navbar {
+    font-size: 25px;
+}
+
+.card-title {
+    font-size: 30px;
+}
+
+.card-text {
+    font-size: 25px;
+}
+
+.title {
+    text-align: center;
+    margin: 12px;
+    padding: 12px;
+    font-size: 45px;
+}
+
+.card-img-top {
+    opacity: 0.8;
+}
+
+.bi {
+    margin: 12px;
+}
+
+#web {
+    border: 2px solid black;
+    border-radius: 22px;
+}
+
+#review {
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+.btn {
+    margin: 5px;
+}
